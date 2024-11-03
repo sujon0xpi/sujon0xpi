@@ -11,8 +11,6 @@ const developer = {
 };
 ```
 
-- **🤧 My profile card ♠️: https://sujon0xpi.github.io/card/**
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujon0xpi) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@freedom369_4u) 
