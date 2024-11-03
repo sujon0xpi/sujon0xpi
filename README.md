@@ -13,6 +13,14 @@ const developer = {
 
 - **🤧 My profile card ♠️: https://sujon0xpi.github.io/card/**
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujon0xpi) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@freedom369_4u) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sujon0xpi) 
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@sujon0xpi)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/Freedom369_4u)
+[![daily.dev](https://img.shields.io/badge/daily.dev-%231572B6.svg?logo=daily.dev&logoColor=white)](https://app.daily.dev/sujon0xpi)
+
 
 ## 📊 GitHub Analytics
 
