@@ -11,7 +11,7 @@ const developer = {
 };
 ```
 
-🤧 My profile card ♠️:- 
+**- 🤧 My profile card ♠️: https://sujon0xpi.github.io/card/**
 
 
 ## 📊 GitHub Analytics
