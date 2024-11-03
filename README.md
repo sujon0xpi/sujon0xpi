@@ -9,7 +9,7 @@ const developer = {
     return ['Code', 'Learn', 'Create', 'Repeat'];
   }
 };
-``
+```
 
 🤧 My profile card ♠️:- 
 
