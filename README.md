@@ -28,8 +28,7 @@ const developer = {
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujon0xpi&theme=tokyonight&hide_border=true)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujon0xpi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujon0xpi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Achievement Showcase
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sujon0xpi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
